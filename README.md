@@ -1,3 +1,8 @@
-# music-hamburger-js
+# Animated Hamburger Nav Bar
 
-Using html, css, and js to create a hamber style nav bar. 
+Using HTML, CSS, and JS to create a animated hamburger style navigation bar. 
+
+### Download the zip file or clone the repo to view app. 
+
+Using VS code, download the 'Live Server' extension. Then in the code editor ```Go Live``` to view project.
+Other code editor may require a different extension. 
